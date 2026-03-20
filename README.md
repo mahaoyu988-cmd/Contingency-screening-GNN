@@ -1,6 +1,6 @@
 # Contingency-screening-GNN
 
-initial_CS: This document is wring to run acopf and dcopf and based on initial dispatch run contingency screening by using acpf and dcpf
+initial_CS: This document runs acopf and dcopf and based on initial dispatch run contingency screening by using acpf and dcpf
 
 Dataset: This document is trying to create dataset by using different operational condition in a fixed outage sets
 
