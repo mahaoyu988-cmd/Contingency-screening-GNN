@@ -1,5 +1,6 @@
 # Contingency-screening-GNN
 
+#Branch adding P_gen
 initial_CS: This document runs acopf and dcopf and based on initial dispatch run contingency screening by using acpf and dcpf
 
 Dataset: This document is trying to create dataset by using different operational condition in a fixed outage sets
@@ -14,3 +15,7 @@ test_outage_lines  = [38, 33, 142, 31, 93] (get from dcpf)
 dynamic_edge_index: this code runs GNN by using dynamic edge_index and edge_attributes
 
 fixed_edge_index: this code runs GNN by using fixed edge_index and edge_attributes
+
+
+#Branch identify-min-#operating
+Identify min operating scenarios that i need for GNN training
